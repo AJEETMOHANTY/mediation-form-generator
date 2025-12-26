@@ -4,7 +4,6 @@ This project generates a professionally formatted **Mediation Application Form (
 
 The document layout, spacing, and structure closely replicate the provided PDF file, as required in the assignment.
 
----
 
 ## 📌 Project Overview
 
@@ -12,7 +11,6 @@ The goal of this project is to **recreate a fixed PDF document layout** using Py
 
 All content is intentionally **static**, matching the original document exactly.
 
----
 
 ## 🧩 Key Features
 
@@ -23,7 +21,6 @@ All content is intentionally **static**, matching the original document exactly.
 - Clickable email link ("info@kslegal.co.in")  
 - Professional legal-document appearance  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -32,10 +29,9 @@ All content is intentionally **static**, matching the original document exactly.
 
 *(No external APIs required)*
 
----
 
 ## 📁 Project Structure
-
+```text
 project/
 │
 ├── app.py # Main script to generate the Word document
@@ -45,7 +41,6 @@ project/
 └── output/
 └── Mediation_Form.docx
 
----
 
 ## ▶️ How to Run
 
