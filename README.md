@@ -51,3 +51,16 @@ pip install -r requirements.txt
 python app.py
 ### 3️⃣ Output
 output/Mediation_Form.docx
+
+
+## Deployment Note
+
+This project is designed as a document generation utility using Python and `python-docx`.
+
+The application can be deployed on platforms like Koyeb or Railway using Gunicorn.
+However, due to platform-specific runtime constraints, deployment may require minor environment configuration.
+
+The core logic, structure, and output generation work correctly when run locally using:
+
+```bash
+python app.py
